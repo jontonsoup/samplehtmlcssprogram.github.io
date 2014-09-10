@@ -1,4 +1,4 @@
-/* Challenge 6 answer
+/***** Challenge 6 answer
 
 p {
   color: rgb(0, 162, 193);
@@ -7,7 +7,7 @@ p {
 */
 
 
-/* Challenge 7 answer */
+/***** Challenge 7 answer
 
 .biography {
   color: rgb(0, 162, 193);
@@ -21,4 +21,39 @@ p {
   color: #afe24a;
 }
 
+*/
 
+
+/***** Challenge 8 answer */
+
+body {
+  color: rgb(50, 50, 50);
+  font-family: 'Rosario', arial, sans-serif;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', georgia, serif;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+a {
+  color: rgb(115, 168, 10);
+}
+
+header {
+  color: rgb(0, 162, 193);
+  text-align: center;
+}
+
+.header-name {
+  text-transform: uppercase;
+}
+
+.biography {
+  text-align: center;
+}

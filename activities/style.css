@@ -1,3 +1,24 @@
+/* Challenge 6 answer
+
 p {
   color: rgb(0, 162, 193);
 }
+
+*/
+
+
+/* Challenge 7 answer */
+
+.biography {
+  color: rgb(0, 162, 193);
+}
+
+.header-name {
+  color: deeppink;
+}
+
+.resume h2, .section-title {
+  color: #afe24a;
+}
+
+

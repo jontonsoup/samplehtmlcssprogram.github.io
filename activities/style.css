@@ -24,7 +24,7 @@ p {
 */
 
 
-/***** Challenge 8 answer */
+/***** Challenge 8 answer
 
 body {
   color: rgb(50, 50, 50);
@@ -56,4 +56,56 @@ header {
 
 .biography {
   text-align: center;
+}
+*/
+
+
+/***** Challenge 9 answer */
+
+body {
+  color: rgb(50, 50, 50);
+  font-family: 'Rosario', arial, sans-serif;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', georgia, serif;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+a {
+  color: rgb(115, 168, 10);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(170, 219, 72);
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(199, 10, 126);
+  text-decoration: none;
+}
+
+header {
+  background-image: url("images/nice_snow.png");
+  color: rgb(0, 162, 193);
+  text-align: center;
+}
+
+.header-name {
+  text-transform: uppercase;
+}
+
+.biography {
+  text-align: center;
+}
+
+footer {
+  background-color: black;
 }

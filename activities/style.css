@@ -112,7 +112,7 @@ footer {
 */
 
 
-/***** Challenge 10 answer */
+/***** Challenge 10 answer
 
 body {
   color: rgb(50, 50, 50);
@@ -194,6 +194,108 @@ header {
 
 .biography img {
   border: 8px solid white;
+}
+
+.resume {
+  padding-left: 5em;
+  width: 75%;
+}
+
+footer {
+  background-color: black;
+  padding: 1em 2em;
+}
+
+*/
+
+/***** Challenge 11 answer */
+
+body {
+  color: rgb(50, 50, 50);
+  font-family: 'Rosario', arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', georgia, serif;
+  line-height: 1.2;
+  margin: 0;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.3em;
+}
+
+a {
+  color: rgb(115, 168, 10);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(170, 219, 72);
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(199, 10, 126);
+  text-decoration: none;
+}
+
+header {
+  background-color: rgb(0, 162, 193);
+  border-bottom: 8px solid rgba(255, 255, 255, .5);
+  color: white;
+  padding: 1em;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+}
+
+.socials a {
+  color: white;
+  margin: 0 3px;
+}
+
+.socials a:hover {
+  color: rgb(170, 219, 72);
+}
+
+.socials a:active {
+  color: rgb(199, 10, 126);
+}
+
+.header-name {
+  text-transform: uppercase;
+}
+
+.column {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  display: inline-block;
+  margin-right: -4px;
+  margin-top: 110px;
+  padding: 2em;
+  vertical-align: top;
+}
+
+.biography {
+  background-color: rgba(0, 162, 193, .1);
+  text-align: center;
+  width: 25%;
+}
+
+.biography img {
+  border: 8px solid white;
+  position: fixed;
+  top: 40px;
+  right: 40px;
 }
 
 .resume {

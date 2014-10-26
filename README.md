@@ -1,6 +1,8 @@
 samplehtmlcssprogram.github.io
 ==============================
 
+This is a test to add some text.
+
 Here lie the files associated with SkilledUp Academy's Introduction to HTML & CSS program. Files are separated into two folders:
 
 - "final" is an example of the completed portfolio/resume site that a learner build throughout the course.
